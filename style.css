@@ -29,7 +29,8 @@ a {
    font-size:12px;
    text-align:center;
  }
-  p#featured_property {
+ 
+ #featured_property.p {
     width: 800px;
     text-align:center;
   }
